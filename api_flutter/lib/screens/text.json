@@ -1,0 +1,122 @@
+{
+    "results": [
+      {
+        "gender": "female",
+        "name": {
+          "title": "Miss",
+          "first": "Poppy",
+          "last": "Lee"
+        },
+        "location": {
+          "street": {
+            "number": 8458,
+            "name": "Ferguson Street"
+          },
+          "city": "Porirua",
+          "state": "Southland",
+          "country": "New Zealand",
+          "postcode": 44690,
+          "coordinates": {
+            "latitude": "51.6288",
+            "longitude": "24.3752"
+          },
+          "timezone": {
+            "offset": "+10:00",
+            "description": "Eastern Australia, Guam, Vladivostok"
+          }
+        },
+        "email": "poppy.lee@example.com",
+        "login": {
+          "uuid": "c60fd4aa-6652-4ef0-81ef-27be701367da",
+          "username": "yellowdog528",
+          "password": "tools",
+          "salt": "ywi39aWf",
+          "md5": "eb9fdb4a899a2aef45ed6aca3c892a17",
+          "sha1": "bcdcdcfa50a0ae34ee5121517090709a7bbcc5e4",
+          "sha256": "2374e6b2361c9f6dff383a36a02f46e2a87b1f399527f7696f0957a8b82416c9"
+        },
+        "dob": {
+          "date": "1985-11-05T13:07:48.657Z",
+          "age": 39
+        },
+        "registered": {
+          "date": "2020-04-20T18:43:33.672Z",
+          "age": 4
+        },
+        "phone": "(002)-448-6828",
+        "cell": "(396)-249-1652",
+        "id": {
+          "name": "",
+          "value": null
+        },
+        "picture": {
+          "large": "https://randomuser.me/api/portraits/women/43.jpg",
+          "medium": "https://randomuser.me/api/portraits/med/women/43.jpg",
+          "thumbnail": "https://randomuser.me/api/portraits/thumb/women/43.jpg"
+        },
+        "nat": "NZ"
+      },
+      {
+        "gender": "male",
+        "name": {
+          "title": "Mr",
+          "first": "Albert",
+          "last": "Sørensen"
+        },
+        "location": {
+          "street": {
+            "number": 1787,
+            "name": "Aastrupvej"
+          },
+          "city": "Beder",
+          "state": "Midtjylland",
+          "country": "Denmark",
+          "postcode": 22128,
+          "coordinates": {
+            "latitude": "66.5429",
+            "longitude": "-95.7227"
+          },
+          "timezone": {
+            "offset": "+3:30",
+            "description": "Tehran"
+          }
+        },
+        "email": "albert.sorensen@example.com",
+        "login": {
+          "uuid": "d5fa36f2-9944-470e-9201-6235baf3e394",
+          "username": "crazybutterfly279",
+          "password": "matthias",
+          "salt": "ouUQ8o6m",
+          "md5": "00b891448e4eeb8918b71735c92e1fea",
+          "sha1": "44cfee88c1db889dae5440cf3b4af4ed27809222",
+          "sha256": "938b256e5499378b46b20ec2da4718b30192e2697619c6ca325fd7b860e2be7b"
+        },
+        "dob": {
+          "date": "1973-03-07T19:00:03.777Z",
+          "age": 51
+        },
+        "registered": {
+          "date": "2013-07-02T02:49:27.719Z",
+          "age": 11
+        },
+        "phone": "75851370",
+        "cell": "83620068",
+        "id": {
+          "name": "CPR",
+          "value": "070373-9444"
+        },
+        "picture": {
+          "large": "https://randomuser.me/api/portraits/men/47.jpg",
+          "medium": "https://randomuser.me/api/portraits/med/men/47.jpg",
+          "thumbnail": "https://randomuser.me/api/portraits/thumb/men/47.jpg"
+        },
+        "nat": "DK"
+      }
+    ],
+    "info": {
+      "seed": "a562cc8b557a6864",
+      "results": 2,
+      "page": 1,
+      "version": "1.4"
+    }
+  }
